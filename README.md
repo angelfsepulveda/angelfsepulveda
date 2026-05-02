@@ -86,13 +86,13 @@
   capability development.</td>
     </tr>
   </table>
-  <h3>GitHub Stats</h3>
-  <p align="center">
+  <!-- <h3>GitHub Stats</h3> -->
+  <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=angelfsepulveda&show_icons=true&theme=vision-friendly-dark">
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelfsepulveda&theme=vision-friendly-dark">
-  </p>
+  </p> -->
   <h3>Workspace</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/NVIDIA-GTX1660Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
